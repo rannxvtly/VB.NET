@@ -1,0 +1,14 @@
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\bin\Debug\DataMHS.exe.config
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\bin\Debug\DataMHS.exe
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\bin\Debug\DataMHS.pdb
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\bin\Debug\DataMHS.xml
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\obj\Debug\DataMHS.vbproj.AssemblyReference.cache
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\obj\Debug\DataMHS.Resources.resources
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\obj\Debug\DataMHS.vbproj.GenerateResource.cache
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\obj\Debug\DataMHS.vbproj.CoreCompileInputs.cache
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\obj\Debug\DataMHS.exe
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\obj\Debug\DataMHS.xml
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\obj\Debug\DataMHS.pdb
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\obj\Debug\DataMHS.FrmData_Mahasiswa.resources
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\bin\Debug\MySql.Data.dll
+C:\SEMESTER 3\Pemrograman Visual\DataMHS\DataMHS\DataMHS\obj\Debug\DataMHS.vbproj.CopyComplete
